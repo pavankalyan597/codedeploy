@@ -1,0 +1,6 @@
+version: 0.0
+os: linux
+
+files:
+  - source: files/*
+    destination: /home/ec2-user/github
